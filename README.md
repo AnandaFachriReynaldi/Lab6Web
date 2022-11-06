@@ -18,4 +18,10 @@ dan Pada Bagian `<body>` Load Javascript
 Lalu Membuat Layout Dengan Menggunakan `Container` Berikan Judul "Layout Sederhana"
 ![Step1](SS/SS1.png)
 2. Membuat Navbar
+Untuk Membedakan Halaman Mana Yang Aktif Tambahkan 
+```
+style="background-color: #1165be;"
+```
 ![Step2](SS/SS2.png)
+3. Menambahkan Hero Panel Dengan `Jumbotron`
+![Step3](SS/SS3.png)
