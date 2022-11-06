@@ -47,4 +47,7 @@ footer {
 ```
 ![Step5](SS/SS5.png)
 
+<b>Berikut Adalah Preview Hasilnya</b>
+
+![Step6](SS/SS6.png)
 
