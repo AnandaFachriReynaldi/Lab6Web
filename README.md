@@ -17,3 +17,5 @@ dan Pada Bagian `<body>` Load Javascript
 ```
 Lalu Membuat Layout Dengan Menggunakan `Container` Berikan Judul "Layout Sederhana"
 ![Step1](SS/SS1.png)
+2. Membuat Navbar
+![Step2](SS/SS2.png)
