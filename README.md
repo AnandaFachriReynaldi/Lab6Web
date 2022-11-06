@@ -35,5 +35,16 @@ Agar Gambar Berada Di Tengah Tambahkan `<style>` Pada `<head>`
 ```
 Lalu Membuat Cards 2 dan Widget Link
 ![Step4](SS/SS4.png)
+5. Membuat Footer<br>
+Agar Area Lebih Besar Tambahkan `<style>`
+```
+footer {
+        clear:both;
+        background-color:#1d1d1d; 
+        padding:10px;
+        color:#eee;
+    }
+```
+![Step5](SS/SS5.png)
 
 
