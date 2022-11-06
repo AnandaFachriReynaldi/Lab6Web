@@ -17,7 +17,7 @@ dan Pada Bagian `<body>` Load Javascript
 ```
 Lalu Membuat Layout Dengan Menggunakan `Container` Berikan Judul "Layout Sederhana"
 ![Step1](SS/SS1.png)
-2. Membuat Navbar
+2. Membuat Navbar<br>
 Untuk Membedakan Halaman Mana Yang Aktif Tambahkan 
 ```
 style="background-color: #1165be;"
@@ -25,3 +25,15 @@ style="background-color: #1165be;"
 ![Step2](SS/SS2.png)
 3. Menambahkan Hero Panel Dengan `Jumbotron`
 ![Step3](SS/SS3.png)
+4. Menambahkan `Container` Cards 1<br>
+Agar Gambar Berada Di Tengah Tambahkan `<style>` Pada `<head>`
+```
+.card-img-top{
+        width: 120px;
+        align-self: center;
+    }
+```
+Lalu Membuat Cards 2 dan Widget Link
+![Step4](SS/SS4.png)
+
+
